@@ -3,7 +3,7 @@ LLVM compiler for [Brainfuck](https://esolangs.org/wiki/Brainfuck_implementation
 
 ## Benchmarks
 
-Benchmarks are timed with ```time python3 interpreter.py``` for the interpreter and ```time lli program.ll``` for the compiler. The time displayed in the table is the sum om ```user``` and ```sys``` time. 
+Benchmarks are timed with ```time python3 interpreter.py``` for the interpreter and ```time lli program.ll``` for the compiler. The time displayed in the table is the sum of ```user``` and ```sys``` time. 
 
 ### Mandelbrot
 
